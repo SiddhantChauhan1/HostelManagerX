@@ -1,5 +1,6 @@
 # HostelManagerX
-Hostel Management system 
+Hostel Management system
+Full stack web application
 Developed using Javascript MEAN framework:
 Mongo DB
 Express
@@ -11,4 +12,3 @@ patch information
 create new records
 delete existing records
 database management
-full stack
