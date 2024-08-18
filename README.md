@@ -1,11 +1,15 @@
 # HostelManagerX
 Hostel Management system
 Full stack web application
-Developed using Javascript MEAN framework:
-Mongo DB
-Express
-Angular JS
-Node.js
+
+Developed using Javascript MEAN Stack:
+Front End
+-Angular JS
+Backend
+-Express
+-Node.js
+Database
+-MongoDB
 
 View students information
 patch information
