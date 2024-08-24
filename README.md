@@ -1,6 +1,7 @@
 # HostelManagerX
-Hostel Management system
-Full stack web application for hostel admins, allowing them to perform CRUD operations on student Records.
+Full stack web application allows:
+1. Admins to perform CRUD operations on student Records.
+2. Students to view their information
 
 Developed using Javascript MEAN Stack:
 
@@ -10,8 +11,8 @@ Backend: Express ; Node.js
 
 Database: MongoDB
 
-View students information
-patch information
-create new records
-delete existing records
-database management
+View students information,
+patch information,
+create new records,
+delete existing records,
+user authorization.
