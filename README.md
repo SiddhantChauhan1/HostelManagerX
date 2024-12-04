@@ -7,7 +7,7 @@ Developed using Javascript MEAN Stack:
 
 Front End: Angular JS
 
-Backend: Express ; Node.js
+Backend: ExpressJS, Node.js
 
 Database: MongoDB
 
