@@ -1,5 +1,7 @@
 # HostelManagerX
-Full stack web application, allows:
+Full stack web application
+
+Allows:
 1. Admins to perform CRUD operations on student Records.
 2. Students to view their information
 
